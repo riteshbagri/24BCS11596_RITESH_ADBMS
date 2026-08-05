@@ -1,0 +1,2 @@
+Q1. USE PL/pgSQL to check if given age is eligible for voting or not
+Q2. USE PL/pgSQL to check range of value
