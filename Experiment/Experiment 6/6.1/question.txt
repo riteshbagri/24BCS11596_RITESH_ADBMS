@@ -1,0 +1,2 @@
+Create a complex view named Unsold_Items that joins the Products and Order_Details tables to 
+display the ProductName and Category of all items that have never been ordered by any customer using a NOT IN Operator
